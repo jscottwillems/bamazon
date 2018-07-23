@@ -18,18 +18,18 @@ After the amount is entered the app will give you the total cost for the selecte
 
 Managers can view all inventory items, view items with low inventory, add new inventory to existing items and add new items to the inventory.
 
-![alt text](./images/manager/manager1)
+![alt text](./images/manager/manager1.png)
 
-![alt text](./images/manager/managerviewall)
+![alt text](./images/manager/managerviewall.png)
 
-![alt text](./images/manager/managerlow)
+![alt text](./images/manager/managerlow.png)
 
-![alt text](./images/manager/manageradd1)
+![alt text](./images/manager/manageradd1.png)
 
-![alt text](./images/manager/manageradd2)
+![alt text](./images/manager/manageradd2.png)
 
-![alt text](./images/manager/managernew1)
+![alt text](./images/manager/managernew1.png)
 
-![alt text](./images/manager/managernew2)
+![alt text](./images/manager/managernew2.png)
 
 
