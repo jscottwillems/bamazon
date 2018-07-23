@@ -1,3 +1,5 @@
+DROP database IF EXISTS bamazon;
+
 CREATE DATABASE IF NOT EXISTS bamazon;
 
 USE bamazon;
@@ -16,10 +18,10 @@ VALUES ('Echo Dot', 'electronics', 49.99, 300)
 , ('Sonicare Electric Toothbrush', 'health and beauty', 99.95, 280)
 , ('YETI Hopper Cooler', 'sports and outdoors', 244.99, 175)
 , ('Intex Challenger Kayak', 'sports and outdoors', 47.39, 60)
-, ('Worlds Okayest Employee Mug', 'home and decor', 13.00, 500)
+, ('Worlds Okayest Employee Mug', 'home and decor', 13.29, 500)
 , ('NES Classic Edition', 'electronics', 89.95, 95)
 , ('Starbrite Mildew Stain Remover', 'home and decor', 10.99, 1435)
-, ('Dove Men+ Care Deoderant', 'health and beauty', 8.00, 3000)
-, ('Sony 85-in 4k Smart TV', 'electronics', 3998.00, 2)
+, ('Dove Men+ Care Deoderant', 'health and beauty', 8.99, 3000)
+, ('Sony 85-in 4k Smart TV', 'electronics', 3998.65, 2)
 , ('Bunch O Balloons, Instant Water Balloons', 'toys and games', 6.65, 480);
 
